@@ -21,7 +21,7 @@ class createEmployeesSeeder extends Seeder
 	        ['name' => 'E', 'email' => 'e@gmail.com', 'org_id' => '5', 'salary' => '50000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
 	        ['name' => 'F', 'email' => 'f@gmail.com', 'org_id' => '11', 'salary' => '10000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
 	        ['name' => 'G', 'email' => 'g@gmail.com', 'org_id' => '12', 'salary' => '16000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
-	        ['name' => 'H', 'email' => 'h@gmail.com', 'org_id' => '13', 'salary' => '70000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
+	        ['name' => 'H', 'email' => 'h@gmail.com', 'org_id' => '3', 'salary' => '70000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
 	        ['name' => 'I', 'email' => 'i@gmail.com', 'org_id' => '14', 'salary' => '90000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
 	        ['name' => 'J', 'email' => 'j@gmail.com', 'org_id' => '15', 'salary' => '60000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],
 	        ['name' => 'K', 'email' => 'k@gmail.com', 'org_id' => '21', 'salary' => '13000', 'created_at' => Carbon::now()->format('Y-m-d H:i:s'), 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')],

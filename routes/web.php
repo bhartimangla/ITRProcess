@@ -15,3 +15,4 @@
     return view('welcome');
 });*/
 Route::get('/', 'Controller@companiesList');
+Route::get('no-fill-itr-employees/{id}', 'Controller@notFillITREmployeesList');
